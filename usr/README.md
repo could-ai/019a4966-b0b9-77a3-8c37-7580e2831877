@@ -1,16 +1,16 @@
-# couldai_user_app
+# Diseños Globales
 
-A new Flutter project.
+Una aplicación para explorar y vender diseños únicos de todo el mundo.
 
-## Getting Started
+## Primeros Pasos
 
-This project is a starting point for a Flutter application.
+Este proyecto es el punto de partida para una aplicación Flutter que funcionará como una plataforma de comercio electrónico para diseños.
 
-A few resources to get you started if this is your first Flutter project:
+A continuación, algunos recursos para comenzar si este es tu primer proyecto en Flutter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Lab: Escribe tu primera aplicación Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Ejemplos útiles de Flutter](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obtener ayuda sobre el desarrollo con Flutter, consulta la
+[documentación en línea](https://docs.flutter.dev/), que ofrece tutoriales,
+ejemplos, guías sobre desarrollo móvil y una referencia completa de la API.
